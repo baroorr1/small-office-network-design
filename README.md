@@ -8,6 +8,7 @@ A Cisco Packet Tracer project simulating a small office network using VLANs, int
 
 ![Network Topology](topology.png)
 
+
 ---
 
 ## 🔧 Project Features
