@@ -80,4 +80,3 @@ Designed and implemented by **[Rithesh Reddy Baroor]**
 
 ---
 
-> 💡 *Feel free to clone or fork this project if you're learning Cisco networking or studying for CCNA!*
