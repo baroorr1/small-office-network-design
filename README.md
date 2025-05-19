@@ -75,7 +75,7 @@ The DHCP Server (`192.168.30.10`) is statically configured in the Finance VLAN.
 
 ## 👨‍💻 Author
 
-Designed and implemented by **[Rithesh Reddy Baroor]**  
+Designed and implemented by **Rithesh Reddy Baroor**  
 [LinkedIn](https://www.linkedin.com/in/ritheshreddy16/)
 
 ---
